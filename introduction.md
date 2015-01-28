@@ -8,3 +8,4 @@ Electives probably, maybe CSS.
 * CSS
 * Sass
 * HTML
+* Killing history using git rebase
